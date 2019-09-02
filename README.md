@@ -1,3 +1,3 @@
-# response_design_eaxmple
+# response_design_example
 
 An illustration of Mobile first principle
